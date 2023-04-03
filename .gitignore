@@ -1,0 +1,11 @@
+/backup_csvs
+/cade_archive
+/campaign_results
+/QM Exports
+/recent_customer_csvs
+/testing_dump
+admin_info.csv
+client_secret.json
+settings.yaml
+config.py
+test.py
